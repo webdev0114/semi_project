@@ -1,0 +1,29 @@
+.search-form{
+	
+}
+
+.search-inner{
+	display:flex;
+    align-items: center;
+	width:100%;
+    border-radius: 20px;
+    border: 1px solid #bbb;
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #fff;
+}
+
+.search-inner .search-input{
+	 border-radius:0px;
+	 margin:0;
+	 border:none;
+     outline: none;
+}
+
+
+.search-form i {
+	width: 16px;
+	height:16px;
+    position: static;
+    cursor: pointer;
+}
